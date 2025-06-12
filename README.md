@@ -47,6 +47,10 @@ Compiling a simulation report detailing the design, implementation, test cases, 
 **Technologies Used**: The image explicitly mentions the following technologies:
 
 Verilog: A hardware description language (HDL) used for modeling electronic systems.
-VHDL: Another popular hardware description language (HDL) used for designing digital circuits. To accomplish the project, the following would also be implicitly used:
+
+VHDL: Another popular hardware description language (HDL) used for designing digital circuits. 
+To accomplish the project, the following would also be implicitly used:
+
 HDL Simulator: Software tools (e.g., ModelSim, Vivado, QuestaSim) that can interpret and execute Verilog/VHDL code to simulate the behavior of the hardware.
+
 Text Editor/IDE: For writing and editing the Verilog/VHDL code.
